@@ -6,3 +6,24 @@ Saved/
 *.xcodeproj
 .DS_Store
 Thumbs.db
+
+# UE5 generated folders - never commit these
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+FileOpenOrder/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# OS
+.DS_Store
+Thumbs.db
