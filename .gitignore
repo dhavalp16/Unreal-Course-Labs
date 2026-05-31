@@ -27,3 +27,7 @@ FileOpenOrder/
 # OS
 .DS_Store
 Thumbs.db
+
+.vsconfig
+UpgradeLog.htm
+*.htm
